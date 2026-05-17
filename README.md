@@ -5,7 +5,7 @@
 -Method Overriding
 -Abstraction (Abstract class or Interface)
 -Packages
--Access Modifiers (private, protected, public)
+-Access Modifiers (public used)
 -User input using Scanner
 
 **Project Logic**
